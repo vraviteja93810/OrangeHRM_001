@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T12:05:26 IST" name="Suite" finished-at="2024-03-25T12:05:36 IST" duration-ms="9903">
+    <groups>
+    </groups>
+    <test started-at="2024-03-25T12:05:26 IST" name="Test" finished-at="2024-03-25T12:05:36 IST" duration-ms="9903">
+      <class name="com.sdet.AppTest">
+        <test-method signature="testLogin1()[pri:0, instance:com.sdet.AppTest@77fbd92c]" started-at="2024-03-25T12:05:36 IST" name="testLogin1" finished-at="2024-03-25T12:05:36 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method signature="testLogin2()[pri:0, instance:com.sdet.AppTest@77fbd92c]" started-at="2024-03-25T12:05:36 IST" name="testLogin2" finished-at="2024-03-25T12:05:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- com.sdet.AppTest -->
+      <class name="com.sdet.TC_Login">
+        <test-method signature="login_Test()[pri:0, instance:com.sdet.TC_Login@c8c12ac]" started-at="2024-03-25T12:05:26 IST" name="login_Test" finished-at="2024-03-25T12:05:36 IST" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- com.sdet.TC_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
